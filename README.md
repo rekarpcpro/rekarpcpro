@@ -1,16 +1,14 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=rekardev1&theme=transparent&hide_border=true)](#)
+<!-- https://git.io/streak-stats -->
 
-<!--
-**rekardev1/rekardev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Frameworks:
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt="asp.net" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://logosandtypes.com/wp-content/uploads/2021/04/flutter.svg" href="#" alt="asp.net" height="40" style="vertical-align:top; margin:4px">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Languages:
+<p>
+  <img src="https://static.javatpoint.com/csharp/images/c-sharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" height="40" style="vertical-align:top; margin:4px;">
+</p>
