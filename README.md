@@ -2,7 +2,7 @@
 </br>   -->
 
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/b328a561120ea909f88289d5ddd18a99/f29c722bed3fbbb9-05/s1280x1920/dc1577dd5762af1cee3119deb5e49eddfdce676f.gifv" width="800"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </div>
 </br>
 <div id="badges" align="center">
