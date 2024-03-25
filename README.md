@@ -6,11 +6,10 @@
 </div>
 </br>
 <div id="badges" align="center">
-  <a href="https://linktr.ee/rekardev1">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  <a href="https://rekar.dev/">
+    rekar.dev
   </a>
 </div>
-
 
 <h1 align="center">🧰 Frameworks</h1>
 
@@ -22,9 +21,7 @@
 
 <h1 align="center">🔨 Languages</h1>
 
-
 <p align="center">
   <img src="https://static.javatpoint.com/csharp/images/c-sharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <!--   <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" height="40" style="vertical-align:top; margin:4px;"> -->
 </p>
-
